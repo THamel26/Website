@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Tuba Ty Hamel"
 about:
   id: me
   template: broadside
@@ -9,10 +9,13 @@ about:
 :::{#me}
 
 ## Goals
+Go skiffin till the end of days
 
 ## Education
+St. Thomas or something like that
 
 ## Experience
+York Marina dock hand, yeah I'm like that
 
 :::
 
